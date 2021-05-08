@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "eslint-config-p5js": "^1.0.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^8.0.2",
     "standard": "^14.3.1"
