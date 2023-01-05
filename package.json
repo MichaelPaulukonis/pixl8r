@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "dat.gui": "^0.7.6",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "p5": "^0.10.2"
   },
   "devDependencies": {
